@@ -1,15 +1,15 @@
 ---
 title: 오더스테이션
-subtitle: 유지보수
+subtitle: E-커머스
 layout: default
 modal-id: 1
 date: 2020-06-18
 img: order.PNG
 thumbnail: order.PNG
-alt: image-alt
+alt: OrderStation
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <strong>사용한 언어</strong><br>html<br>php<br>javascript<br>css<br>sql
 
 ---

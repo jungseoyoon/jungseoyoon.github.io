@@ -4,8 +4,8 @@ subtitle: Isbre app
 layout: default
 modal-id: 3
 date: 2020-06-18
-img: isbre.jpg
-thumbnail: isbre.jpg
+img: isbre_in.png
+thumbnail: isbre_rev01.png
 alt: isbre
 project-date: 
 client: https://safetystation.co.kr

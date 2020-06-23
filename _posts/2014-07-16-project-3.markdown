@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2020-06-18
 img: isbre_in.png
-thumbnail: isbre_rev01.png
+thumbnail: isbre_rev02.png
 alt: isbre
 project-date: 
 client: https://safetystation.co.kr

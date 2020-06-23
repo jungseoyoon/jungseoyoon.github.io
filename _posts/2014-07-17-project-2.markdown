@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 그룹사 홈페이지
+subtitle: 태전그룹
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2020-06-18
+img: taejeon.PNG
+thumbnail: taejeon.PNG
+alt: taejeon
+project-date: 
+client: http://www.taejeongroup.com
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <h4>그룹사 홈페이지 관리</h4> <br>- 홈페이지 전면 리뉴얼(개편) 작업 <br>- 업체 및 일정 관리<br><br><h4>사용한 언어</h4>html<br>php<br>javascript<br>css
 
 ---

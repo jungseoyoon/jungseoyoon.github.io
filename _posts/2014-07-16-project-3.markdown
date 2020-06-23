@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 모바일 앱
+subtitle: Isbre app
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2020-06-18
+img: isbre.jpg
+thumbnail: isbre.jpg
+alt: isbre
+project-date: 
+client: https://safetystation.co.kr
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <h4>화면 기획서 작성 및 유지보수</h4><br>- 유사 앱 분석 / 요건 정의 / 화면 기획서 작성<br>- 팝업, 이미지 잘림 현상 등 기타 오류사항 수정<br>- 업체관리 및 일정관리<br><br><h4>사용한 언어</h4>html<br>php<br>javascript<br>css<br>sql
 
 ---

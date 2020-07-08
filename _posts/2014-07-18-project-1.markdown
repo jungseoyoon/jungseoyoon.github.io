@@ -10,6 +10,6 @@ alt: OrderStation
 project-date: 
 client: https://www.orderstation.co.kr
 category: Web Development
-description: <h4>홈페이지 전반적인 오류 수정 및 기능 개선 등의 업무 진행</h4>- 알림톡 및 엑셀 다운로드 기능 추가, 일일매출 추출 등의 관리자 업무 간소화 작업<br>- 주문페이지, 장바구니 등의 화면 UI개선 작업 및 기획서 작성 <br>- google analytics를 활용하여 매주 보고서 제공 <br>- 업체 관리 및 일정관리<br><br><h4>사용한 언어</h4>html<br>php<br>javascript<br>css<br>sql<br><br><br>
+description: <h4>홈페이지 전반적인 오류 수정 및 기능 개선 등의 업무 진행</h4>- 알림톡 및 엑셀 다운로드 기능 추가로 관리자 업무 기능을 개선함<br>- sql을 사용하여 엑셀로 작업하던 총무팀의 일일매출 관련 업무를 간소화 시킴<br>- 주문페이지, 장바구니 등의 화면 UI개선 작업 및 기획서 작성 <br>- google analytics 와 url builder를 활용하여 매주 방문자 보고서를 작성 <br>- 업체 관리 및 일정관리<br><br><h4>사용한 언어</h4>html<br>php<br>javascript<br>css<br>sql<br><br><br>
 
 ---
